@@ -1,14 +1,14 @@
 # **ARRAYS DUPLICATE**
 
-# Information
+## INFORMATION
 
 * **Program to find repeating even numbers in arrays.**
 
-# Technologies Used
+## TECHNOLOGIES USED
 
 * **JAVA**
 
-# Contents
+## CONTENTS
 
 * The variables **int** and **boolean** are defined.
 
@@ -18,9 +18,7 @@
 
 * Identify and print even even numbers with a for loop.
 
-<br />
-
-# Codes
+## CODES
 
 ```Java
 
@@ -101,13 +99,13 @@
 
 <br />
 
-# LINK
+## LINK
 
 * Click here https://github.com/Fogo9/ArraysDuplicate.git to access the Github page for this project.
 
 <br />
 
-# LICENSE
+## LICENSE
 
 * This software is licensed By Tuncay Demir under the MIT license.
 
